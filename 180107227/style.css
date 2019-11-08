@@ -1,0 +1,54 @@
+
+
+
+html{overflow-x:hidden;}
+
+body{
+	position: relative;
+	left: 40vw;
+	top: 30vh;
+	background: #576292 url(photo-1526374965328-7f61d4dc18c5.jfif);
+}
+
+h1{
+	padding-left: 6vw;
+	color: antiquewhite;
+}
+
+
+.key{
+	
+	display: flex;
+	max-width: 26vw;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	}
+	//////
+input{
+    width: 19.75vw;
+    height: 8vh;
+    text-align: right;
+    font-size: 30px;
+    font-weight: lighter;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+
+
+.key button{
+background-color: #20897fd9;
+    border: 1px solid black;
+    height: 10vh;
+    width: 75px;
+    border-radius: 5px;
+    margin: 1px 0px;
+    font-size: larger;
+}
+
+#eq button{
+	height: 20vh;
+	
+}		
+

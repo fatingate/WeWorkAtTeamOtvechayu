@@ -25,6 +25,15 @@ function back(){
     document.form.textview.value = exp.substring(0,exp.length-1);
 }
 
+function  power(){
+    var x = document.form.textview.value;
+    document.form.textview.value = x**document.form.textview.value;
+}  
 
+
+
+function power2(){
+    document.form.textview.value = document.form.textview.value**2;
+}
 
 

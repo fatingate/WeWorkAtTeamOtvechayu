@@ -20,6 +20,10 @@ function sqroot(){
     document.form.textview.value = document.form.textview.value**0.5;
 }            
 
+function back(){
+    var exp = document.form.textview.value;
+    document.form.textview.value = exp.substring(0,exp.length-1);
+}
 
 
 

@@ -65,3 +65,16 @@ background-color: #20897fd9;
 
 }	 
 
+#p button{
+	position: relative;
+	right: 5vw;
+	bottom: 10vh;
+		
+	
+}
+.bod{
+	padding: 10px;
+	
+	max-width: 20vw;
+	padding-bottom: -10vh;
+}

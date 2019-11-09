@@ -36,3 +36,14 @@ input{
     margin-bottom: 10px;
 
 }
+
+
+.key button{
+background-color: #20897fd9;
+    border: 1px solid black;
+    height: 10vh;
+    width: 75px;
+    border-radius: 5px;
+    margin: 1px 0px;
+    font-size: larger;
+}

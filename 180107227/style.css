@@ -36,6 +36,10 @@ input{
     margin-bottom: 10px;
 
 }
+#eq button{
+	height: 20vh;
+	
+}	
 
 
 .key button{

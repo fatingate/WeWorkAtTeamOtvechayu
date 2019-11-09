@@ -16,6 +16,11 @@ function clean(){
     document.form.textview.value = "";
 }
 
+function sqroot(){
+    document.form.textview.value = document.form.textview.value**0.5;
+}            
+
+
 
 
 

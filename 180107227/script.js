@@ -12,5 +12,10 @@ function equal(){
     }
 }
 
+function clean(){
+    document.form.textview.value = "";
+}
+
+
 
 
